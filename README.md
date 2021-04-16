@@ -1,2 +1,1 @@
-# ToastsWily
-Displaying messages using toast
+# C73
