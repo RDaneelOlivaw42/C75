@@ -369,7 +369,8 @@ export default class TransactionScreen extends React.Component {
     submitButton:{
       backgroundColor: '#FBC02D',
       width: 100,
-      height:50
+      height:50,
+      justifyContent: 'center'
     },
     submitButtonText:{
       padding: 10,
